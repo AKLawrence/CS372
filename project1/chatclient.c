@@ -23,8 +23,6 @@
 * Programs must be able to send messages up to 500 characters
 * Don't hard-code any directories
 *
-* This program was written using Beej's Guide to Network Programming, and my own code from this same assignment when I
-* attempted this class in Spring 2019. 
 */
 
 
